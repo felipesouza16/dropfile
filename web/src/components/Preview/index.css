@@ -1,0 +1,10 @@
+.custom-dropzone {
+  border: 2px dashed #ddd;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.custom-dropzone p {
+  margin: 0;
+}
